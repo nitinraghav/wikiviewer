@@ -1,3 +1,2 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/nitinraghav/pen/ObpVBL.
-
+Type anything to find on wikipedia or feeling lazy click for a random wikipedia entry.
  
